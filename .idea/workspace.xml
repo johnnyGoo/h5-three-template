@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9aca6881-fdd7-4039-b3d7-0f23ee428ff4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/template/src/assets/css/mobile_h5.css" afterPath="$PROJECT_DIR$/template/src/assets/css/mobile_h5.css" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,12 +36,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mobile_h5.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mobile_h5.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/src/assets/css/mobile_h5.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="16" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -89,6 +115,7 @@
         <option value="$PROJECT_DIR$/template/package.json" />
         <option value="$PROJECT_DIR$/template/src/App.vue" />
         <option value="$PROJECT_DIR$/template/src/assets/css/mobile_h5.css" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -127,32 +154,6 @@
             <path>
               <item name="h5-three-template" type="b2602c69:ProjectViewProjectNode" />
               <item name="h5-three-template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="h5-three-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="h5-three-template" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="h5-three-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="h5-three-template" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="h5-three-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="h5-three-template" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="h5-three-template" type="b2602c69:ProjectViewProjectNode" />
-              <item name="h5-three-template" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -196,12 +197,12 @@
       <option name="presentableId" value="Default" />
       <updated>1518120673916</updated>
       <workItem from="1518120675101" duration="1069000" />
-      <workItem from="1518126113070" duration="54000" />
+      <workItem from="1518126113070" duration="227000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1123000" />
+    <option name="totallyTimeSpent" value="1296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="602" y="277" width="1785" height="1078" extended-state="0" />
@@ -323,9 +324,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/src/assets/css/mobile_h5.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
