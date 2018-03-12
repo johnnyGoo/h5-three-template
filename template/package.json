@@ -10,7 +10,7 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
-
+    "smart-loader": "^1.2.2"
   },
   "browserslist": [
     "> 1%",
